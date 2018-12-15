@@ -35,53 +35,5 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MemeMev1/SentMemeCollectionViewController.swift"
-            timestampString = "566579611.957213"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "createMeme()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MemeMev2.SentMemeCollectionViewController.createMeme() -&gt; ()"
-                  moduleName = "MemeMev2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/tiagooliveira/Desktop/Projects/Udacity/MemeMev2/MemeMev1/SentMemeCollectionViewController.swift"
-                  timestampString = "566579612.143536"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "28">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MemeMev2.SentMemeCollectionViewController.createMeme() -&gt; ()"
-                  moduleName = "MemeMev2"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/tiagooliveira/Desktop/Projects/Udacity/MemeMev2/MemeMev1/SentMemeCollectionViewController.swift"
-                  timestampString = "566579612.1458499"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "384">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
